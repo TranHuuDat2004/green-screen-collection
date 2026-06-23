@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ChromaVault - Green Screen Meme Library</title>
-    <meta name="description" content="A curated, interactive library of green screen meme overlays for content creators and video editors.">
+    <title>ChromaVault - Sound Effects Library</title>
+    <meta name="description" content="A curated, interactive library of sound effects for content creators and video editors.">
     
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
@@ -70,10 +70,10 @@
             
             <!-- Navigation -->
             <nav class="flex items-center bg-slate-950/60 p-1 rounded-xl border border-darkborder">
-                <a href="index.html" class="px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all duration-250 bg-brand-500 text-darkbg shadow-sm">
+                <a href="index.html" class="px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all duration-250 text-slate-400 hover:text-white">
                     Green Screens
                 </a>
-                <a href="sound_effects.html" class="px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all duration-250 text-slate-400 hover:text-white">
+                <a href="sound_effects.html" class="px-3.5 py-1.5 rounded-lg text-xs font-semibold transition-all duration-250 bg-brand-500 text-darkbg shadow-sm">
                     Sound Effects
                 </a>
             </nav>
@@ -84,7 +84,7 @@
             <!-- Source Label -->
             <div class="flex items-center gap-2 px-3 py-1.5 bg-slate-900/90 border border-darkborder rounded-xl text-xs font-semibold text-slate-350 shadow-sm">
                 <span class="h-2 w-2 rounded-full bg-brand-500 animate-pulse"></span>
-                Local Repository mode (/memes)
+                Local Repository mode (/sound_effects)
             </div>
 
             <!-- Grid Adjuster -->
@@ -109,13 +109,13 @@
             <div class="absolute -top-10 left-1/2 -translate-x-1/2 w-72 h-72 bg-brand-500/10 rounded-full blur-3xl -z-10"></div>
             
             <h2 class="font-display font-black text-4xl sm:text-6xl tracking-tight text-white mb-4">
-                Bring Your Videos to Life with <br>
+                Enhance Your Audio with <br>
                 <span class="bg-gradient-to-r from-brand-400 via-emerald-500 to-teal-400 bg-clip-text text-transparent glow-text">
-                    Green Screen Memes
+                    High Quality SFX
                 </span>
             </h2>
             <p class="max-w-2xl mx-auto text-slate-400 text-sm sm:text-base leading-relaxed">
-                A premium catalog of green screen overlays. Hover over any card to preview the action, download directly, or copy the path structure to reference in your local editor.
+                A curated collection of parsed and cleaned sound effect overlays. Hover to preview sound (make sure audio is unmuted), download directly, and search instantly.
             </p>
 
             <!-- Search and Filter Panel -->
@@ -126,7 +126,7 @@
                     <input 
                         type="text" 
                         id="search-input" 
-                        placeholder="Search meme titles, tags, category..." 
+                        placeholder="Search sound effects, tags, category..." 
                         class="w-full bg-slate-950/80 border border-darkborder/80 focus:border-brand-500/50 rounded-xl pl-12 pr-4 py-3 text-slate-200 text-sm focus:outline-none focus:ring-1 focus:ring-brand-500/20 placeholder-slate-500 transition-all"
                         oninput="handleSearch(this.value)"
                     >
@@ -165,7 +165,7 @@
         <div class="flex items-center justify-between mb-8 border-b border-darkborder pb-4">
             <div class="flex items-center gap-2">
                 <span class="text-sm font-semibold text-slate-400">Showing:</span>
-                <span id="results-count" class="text-sm font-bold bg-brand-500/10 text-brand-400 px-2 py-0.5 rounded-md">-- memes</span>
+                <span id="results-count" class="text-sm font-bold bg-brand-500/10 text-brand-400 px-2 py-0.5 rounded-md">-- sounds</span>
             </div>
         </div>
 
@@ -179,8 +179,8 @@
             <div class="h-16 w-16 bg-slate-900 border border-darkborder rounded-full flex items-center justify-center text-slate-600 mb-4">
                 <i data-lucide="video-off" class="h-8 w-8"></i>
             </div>
-            <h3 class="font-display font-semibold text-lg text-white mb-1">No Memes Found</h3>
-            <p class="text-sm text-slate-500 max-w-sm">We couldn't find any green screen memes matching your filters. Try checking your spelling or clear search filters.</p>
+            <h3 class="font-display font-semibold text-lg text-white mb-1">No Sounds Found</h3>
+            <p class="text-sm text-slate-500 max-w-sm">We couldn't find any sound effects matching your filters. Try checking your spelling or clear search filters.</p>
             <button onclick="resetFilters()" class="mt-4 px-4 py-2 bg-brand-500 hover:bg-brand-600 text-darkbg font-semibold text-sm rounded-xl transition-all shadow-md">
                 Reset All Filters
             </button>
@@ -233,12 +233,12 @@
                     <!-- Tech specs -->
                     <div class="space-y-2 mb-6 bg-slate-950/80 p-4 rounded-xl border border-darkborder/50">
                         <div class="flex justify-between items-center text-xs">
-                            <span class="text-slate-500">Resolution:</span>
+                            <span class="text-slate-500">Resource Type:</span>
                             <span id="modal-res" class="text-slate-350 font-medium"></span>
                         </div>
                         <div class="flex justify-between items-center text-xs">
                             <span class="text-slate-500">File Format:</span>
-                            <span class="text-slate-350 font-medium">MP4 Video</span>
+                            <span class="text-slate-350 font-medium">MP4 Audio/Video</span>
                         </div>
                     </div>
                 </div>
@@ -260,6 +260,6 @@
     </div>
 
     <!-- JavaScript Execution -->
-    <script src="app.js"></script>
+    <script src="sound_effects_app.js"></script>
 </body>
 </html>

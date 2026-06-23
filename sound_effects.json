@@ -1,0 +1,689 @@
+[
+    {
+        "id": "sfx-01",
+        "name": "Chinese Gong",
+        "path": "sound_effects/01 - Chinese Gong.mp4",
+        "category": "Sound Effect",
+        "duration": "0:06",
+        "description": "Premium sound effect overlay of 'Chinese Gong' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "chinese",
+            "gong"
+        ]
+    },
+    {
+        "id": "sfx-02",
+        "name": "Taco Bell",
+        "path": "sound_effects/02 - Taco Bell.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Taco Bell' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "taco",
+            "bell"
+        ]
+    },
+    {
+        "id": "sfx-03",
+        "name": "Awkward Moment",
+        "path": "sound_effects/03 - Awkward Moment.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Awkward Moment' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "moment",
+            "awkward"
+        ]
+    },
+    {
+        "id": "sfx-04",
+        "name": "Awkward Pause (1-2)",
+        "path": "sound_effects/04 - Awkward Pause (1-2).mp4",
+        "category": "Sound Effect",
+        "duration": "0:05",
+        "description": "Premium sound effect overlay of 'Awkward Pause (1-2)' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "pause",
+            "awkward"
+        ]
+    },
+    {
+        "id": "sfx-05",
+        "name": "Camera Flash",
+        "path": "sound_effects/05 - Camera Flash.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Camera Flash' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "camera",
+            "flash"
+        ]
+    },
+    {
+        "id": "sfx-06",
+        "name": "Collect Gold",
+        "path": "sound_effects/06 - Collect Gold.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Collect Gold' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "gold",
+            "collect"
+        ]
+    },
+    {
+        "id": "sfx-07",
+        "name": "Bone Crack",
+        "path": "sound_effects/07 - Bone Crack.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Bone Crack' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "crack",
+            "bone"
+        ]
+    },
+    {
+        "id": "sfx-08",
+        "name": "Topac Engle",
+        "path": "sound_effects/08 - Topac Engle.mp4",
+        "category": "Sound Effect",
+        "duration": "0:06",
+        "description": "Premium sound effect overlay of 'Topac Engle' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "engle",
+            "topac"
+        ]
+    },
+    {
+        "id": "sfx-09",
+        "name": "Skibidi Boom",
+        "path": "sound_effects/09 - Skibidi Boom.mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'Skibidi Boom' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "skibidi",
+            "boom"
+        ]
+    },
+    {
+        "id": "sfx-10",
+        "name": "Blinking",
+        "path": "sound_effects/10 - Blinking.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Blinking' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "blinking"
+        ]
+    },
+    {
+        "id": "sfx-11",
+        "name": "Magic Spells",
+        "path": "sound_effects/11 - Magic Spells.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Magic Spells' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "spells",
+            "magic"
+        ]
+    },
+    {
+        "id": "sfx-12",
+        "name": "RUDE - Eternal Youth",
+        "path": "sound_effects/12 - RUDE - Eternal Youth.mp4",
+        "category": "Sound Effect",
+        "duration": "0:06",
+        "description": "Premium sound effect overlay of 'RUDE - Eternal Youth' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "youth",
+            "rude",
+            "eternal"
+        ]
+    },
+    {
+        "id": "sfx-13",
+        "name": "Vine Boom (Slowed)",
+        "path": "sound_effects/13 - Vine Boom (Slowed).mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'Vine Boom (Slowed)' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "slowed",
+            "vine",
+            "boom"
+        ]
+    },
+    {
+        "id": "sfx-14",
+        "name": "Lie Detector",
+        "path": "sound_effects/14 - Lie Detector.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Lie Detector' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "lie",
+            "detector"
+        ]
+    },
+    {
+        "id": "sfx-15",
+        "name": "Man falling down the Stairs",
+        "path": "sound_effects/15 - Man falling down the Stairs.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Man falling down the Stairs' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "man",
+            "falling",
+            "stairs",
+            "down"
+        ]
+    },
+    {
+        "id": "sfx-16",
+        "name": "Please Stand By",
+        "path": "sound_effects/16 - Please Stand By.mp4",
+        "category": "Sound Effect",
+        "duration": "0:05",
+        "description": "Premium sound effect overlay of 'Please Stand By' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "stand",
+            "please"
+        ]
+    },
+    {
+        "id": "sfx-17",
+        "name": "Ultra Instinct",
+        "path": "sound_effects/17 - Ultra Instinct.mp4",
+        "category": "Sound Effect",
+        "duration": "0:05",
+        "description": "Premium sound effect overlay of 'Ultra Instinct' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "instinct",
+            "ultra"
+        ]
+    },
+    {
+        "id": "sfx-18",
+        "name": "The Good Ending",
+        "path": "sound_effects/18 - The Good Ending.mp4",
+        "category": "Sound Effect",
+        "duration": "0:07",
+        "description": "Premium sound effect overlay of 'The Good Ending' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "good",
+            "ending"
+        ]
+    },
+    {
+        "id": "sfx-19",
+        "name": "Cash Register (1-5)",
+        "path": "sound_effects/19 - Cash Register (1-5).mp4",
+        "category": "Sound Effect",
+        "duration": "0:12",
+        "description": "Premium sound effect overlay of 'Cash Register (1-5)' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "register",
+            "cash"
+        ]
+    },
+    {
+        "id": "sfx-20",
+        "name": "Cinematic Boom",
+        "path": "sound_effects/20 - Cinematic Boom.mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'Cinematic Boom' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "cinematic",
+            "boom"
+        ]
+    },
+    {
+        "id": "sfx-21",
+        "name": "Breast Twitch",
+        "path": "sound_effects/21 - Breast Twitch.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Breast Twitch' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "twitch",
+            "breast"
+        ]
+    },
+    {
+        "id": "sfx-22",
+        "name": "Thank You!",
+        "path": "sound_effects/22 - Thank You!.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Thank You!' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "thank",
+            "you"
+        ]
+    },
+    {
+        "id": "sfx-23",
+        "name": "Discord Call (Join)",
+        "path": "sound_effects/23 - Discord Call (Join).mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Discord Call (Join)' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "call",
+            "join",
+            "discord"
+        ]
+    },
+    {
+        "id": "sfx-24",
+        "name": "Discord Call (Leave)",
+        "path": "sound_effects/24 - Discord Call (Leave).mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Discord Call (Leave)' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "call",
+            "leave",
+            "discord"
+        ]
+    },
+    {
+        "id": "sfx-25",
+        "name": "Discord Notification",
+        "path": "sound_effects/25 - Discord Notification.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Discord Notification' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "notification",
+            "discord"
+        ]
+    },
+    {
+        "id": "sfx-26",
+        "name": "Discord Ringtone",
+        "path": "sound_effects/26 - Discord Ringtone.mp4",
+        "category": "Sound Effect",
+        "duration": "0:06",
+        "description": "Premium sound effect overlay of 'Discord Ringtone' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "ringtone",
+            "discord"
+        ]
+    },
+    {
+        "id": "sfx-27",
+        "name": "Undertakers Bell",
+        "path": "sound_effects/27 - Undertakers Bell.mp4",
+        "category": "Sound Effect",
+        "duration": "0:03",
+        "description": "Premium sound effect overlay of 'Undertakers Bell' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "undertakers",
+            "bell"
+        ]
+    },
+    {
+        "id": "sfx-28",
+        "name": "iPhone (Send - Recieve)",
+        "path": "sound_effects/28 - iPhone (Send - Recieve).mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'iPhone (Send - Recieve)' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "send",
+            "recieve",
+            "iphone"
+        ]
+    },
+    {
+        "id": "sfx-29",
+        "name": "Build Up",
+        "path": "sound_effects/29 - Build Up.mp4",
+        "category": "Sound Effect",
+        "duration": "0:03",
+        "description": "Premium sound effect overlay of 'Build Up' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "build"
+        ]
+    },
+    {
+        "id": "sfx-30",
+        "name": "999 Credit Score Siren",
+        "path": "sound_effects/30 - 999 Credit Score Siren.mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of '999 Credit Score Siren' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "siren",
+            "score",
+            "credit",
+            "999"
+        ]
+    },
+    {
+        "id": "sfx-31",
+        "name": "Daft Punk - Robot Rock",
+        "path": "sound_effects/31 - Daft Punk - Robot Rock.mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'Daft Punk - Robot Rock' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "daft",
+            "robot",
+            "rock",
+            "punk"
+        ]
+    },
+    {
+        "id": "sfx-32",
+        "name": "Hell's Kitchen Suspense",
+        "path": "sound_effects/32 - Hell's Kitchen Suspense.mp4",
+        "category": "Sound Effect",
+        "duration": "0:03",
+        "description": "Premium sound effect overlay of 'Hell's Kitchen Suspense' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "suspense",
+            "kitchen",
+            "hell"
+        ]
+    },
+    {
+        "id": "sfx-33",
+        "name": "DA - Bells (1-3)",
+        "path": "sound_effects/33 - DA - Bells (1-3).mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'DA - Bells (1-3)' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "bells"
+        ]
+    },
+    {
+        "id": "sfx-34",
+        "name": "TiK-TiK",
+        "path": "sound_effects/34 - TiK-TiK.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'TiK-TiK' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "tik"
+        ]
+    },
+    {
+        "id": "sfx-35",
+        "name": "Bua Wa Wa Wa Wa",
+        "path": "sound_effects/35 - Bua Wa Wa Wa Wa.mp4",
+        "category": "Sound Effect",
+        "duration": "0:03",
+        "description": "Premium sound effect overlay of 'Bua Wa Wa Wa Wa' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "bua"
+        ]
+    },
+    {
+        "id": "sfx-36",
+        "name": "Munch Bite",
+        "path": "sound_effects/36 - Munch Bite.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Munch Bite' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "munch",
+            "bite"
+        ]
+    },
+    {
+        "id": "sfx-37",
+        "name": "French Meme",
+        "path": "sound_effects/37 - French Meme.mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'French Meme' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "french"
+        ]
+    },
+    {
+        "id": "sfx-38",
+        "name": "God Damn!",
+        "path": "sound_effects/38 - God Damn!.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'God Damn!' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "god",
+            "damn"
+        ]
+    },
+    {
+        "id": "sfx-39",
+        "name": "Travis Scott Meme",
+        "path": "sound_effects/39 - Travis Scott Meme.mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'Travis Scott Meme' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "scott",
+            "travis"
+        ]
+    },
+    {
+        "id": "sfx-40",
+        "name": "Goku Power",
+        "path": "sound_effects/40 - Goku Power.mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'Goku Power' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "goku",
+            "power"
+        ]
+    },
+    {
+        "id": "sfx-41",
+        "name": "Anime Punch",
+        "path": "sound_effects/41 - Anime Punch.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Anime Punch' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "anime",
+            "punch"
+        ]
+    },
+    {
+        "id": "sfx-42",
+        "name": "Lego Breaking",
+        "path": "sound_effects/42 - Lego Breaking.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Lego Breaking' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "breaking",
+            "lego"
+        ]
+    },
+    {
+        "id": "sfx-43",
+        "name": "Sakhteman Pezeshkan",
+        "path": "sound_effects/43 - Sakhteman Pezeshkan.mp4",
+        "category": "Sound Effect",
+        "duration": "0:04",
+        "description": "Premium sound effect overlay of 'Sakhteman Pezeshkan' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "sakhteman",
+            "pezeshkan"
+        ]
+    },
+    {
+        "id": "sfx-44",
+        "name": "Gay Echo Voice",
+        "path": "sound_effects/44 - Gay Echo Voice.mp4",
+        "category": "Sound Effect",
+        "duration": "0:05",
+        "description": "Premium sound effect overlay of 'Gay Echo Voice' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "voice",
+            "echo",
+            "gay"
+        ]
+    },
+    {
+        "id": "sfx-45",
+        "name": "Metal Pipe Falling",
+        "path": "sound_effects/45 - Metal Pipe Falling.mp4",
+        "category": "Sound Effect",
+        "duration": "0:03",
+        "description": "Premium sound effect overlay of 'Metal Pipe Falling' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "pipe",
+            "falling",
+            "metal"
+        ]
+    },
+    {
+        "id": "sfx-46",
+        "name": "TikTok Mentality",
+        "path": "sound_effects/46 - TikTok Mentality.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'TikTok Mentality' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "tiktok",
+            "mentality"
+        ]
+    },
+    {
+        "id": "sfx-47",
+        "name": "Twitch Alert",
+        "path": "sound_effects/47 - Twitch Alert.mp4",
+        "category": "Sound Effect",
+        "duration": "0:02",
+        "description": "Premium sound effect overlay of 'Twitch Alert' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "twitch",
+            "alert"
+        ]
+    },
+    {
+        "id": "sfx-48",
+        "name": "TF2 Om Nom Nom",
+        "path": "sound_effects/48 - TF2 Om Nom Nom.mp4",
+        "category": "Sound Effect",
+        "duration": "0:03",
+        "description": "Premium sound effect overlay of 'TF2 Om Nom Nom' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "nom",
+            "tf2"
+        ]
+    },
+    {
+        "id": "sfx-49",
+        "name": "Goofy Ahh Car Honk",
+        "path": "sound_effects/49 - Goofy Ahh Car Honk.mp4",
+        "category": "Sound Effect",
+        "duration": "0:03",
+        "description": "Premium sound effect overlay of 'Goofy Ahh Car Honk' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "goofy",
+            "ahh",
+            "car",
+            "honk"
+        ]
+    },
+    {
+        "id": "sfx-50",
+        "name": "Police Radio Beep",
+        "path": "sound_effects/50 - Police Radio Beep.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Police Radio Beep' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "radio",
+            "police",
+            "beep"
+        ]
+    },
+    {
+        "id": "sfx-51",
+        "name": "Glass breaking",
+        "path": "sound_effects/51 - Glass breaking.mp4",
+        "category": "Sound Effect",
+        "duration": "0:01",
+        "description": "Premium sound effect overlay of 'Glass breaking' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "breaking",
+            "glass"
+        ]
+    },
+    {
+        "id": "sfx-52",
+        "name": "Flashbang (Loud)",
+        "path": "sound_effects/52 - Flashbang (Loud).mp4",
+        "category": "Sound Effect",
+        "duration": "0:07",
+        "description": "Premium sound effect overlay of 'Flashbang (Loud)' for video editors.",
+        "resolution": "Audio/Video Clip",
+        "tags": [
+            "flashbang",
+            "loud"
+        ]
+    }
+]
